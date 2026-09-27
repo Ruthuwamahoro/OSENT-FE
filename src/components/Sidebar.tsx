@@ -117,7 +117,7 @@ type NavItem = {
         },
         {
           label: "Documents",
-          href: "/documents",
+          href: "/docs",
           icon: FileText,
           count: 12,
         },
